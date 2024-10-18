@@ -1,6 +1,6 @@
 # Multi-Doc RAG Chatbot
 
-A **Retrieval-Augmented Generation (RAG)** based conversational AI chatbot that enables interaction with content from multiple uploaded documents. The chatbot utilizes **NLP tools and LLMs** to answer queries based on the content from these documents. This project leverages **Langchain**, **FAISS**, and **OpenAI GPT models** to build an interactive interface using **Streamlit**.
+A **Retrieval-Augmented Generation (RAG)** based conversational AI chatbot that enables interaction with content from multiple uploaded documents. The chatbot utilizes **NLP tools and LLMs** to answer queries based on the content from these documents. This project leverages **Langchain**, **FAISS** to build an interactive interface using **Streamlit**.
 
 ## Features  
 - Upload multiple document files (PDFs) for content extraction.
